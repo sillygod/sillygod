@@ -3,6 +3,9 @@
 
 ![My github activities](https://github-readme-stats.vercel.app/api?username=sillygod&show_icons=true)
 
+
+[![Source Karma badge for @sillygod](https://sourcekarma-og.vercel.app/api/sillygod/github)](https://sourcekarma.vercel.app/sillygod)
+
 <!--
 **sillygod/sillygod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
