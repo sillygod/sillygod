@@ -1,8 +1,5 @@
-### Hi there 👋
 
-
-![My github activities](https://github-readme-stats.vercel.app/api?username=sillygod&show_icons=true)
-
+![Metrics](https://metrics.lecoq.io/sillygod?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FTaipei)
 
 [![Source Karma badge for @sillygod](https://sourcekarma-og.vercel.app/api/sillygod/github)](https://sourcekarma.vercel.app/sillygod)
 
